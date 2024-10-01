@@ -1,6 +1,6 @@
 # **Howard's Server**
 ## **🌟 You’re Invited! Join Our Discord Community! 🌟 Hey there! 🎉 We’re excited to invite you to our awesome Discord server! Whether you’re looking to chat, share interests, or just hang out with some great people, we’ve got a spot for you!**
-<a id="Hyperlink example - Mordhau Discord">discord.gg/YQstM2XC9h</>
+<a id="Hyperlink example - Mordhau Discord">https://discord.gg/YQstM2XC9h
 ### **Our Server:**
 #### Howard's NO FFA Duels (Vanilla)
 #### Howard's Demon Horde (Vanilla)
